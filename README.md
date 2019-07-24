@@ -1,3 +1,5 @@
+**NOTE: This forked repository is not an official MATLAB NWB interface. It exists for MathWorks to contribute pull requests to the root repository and other forks.**
+
 # MatNWB
 
 A Matlab interface for reading and writing Neurodata Without Borders (NWB) 2.0 files.
